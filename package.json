@@ -1,0 +1,11 @@
+{
+  "name": "thor-io.server",
+  "version": "1.0.0",
+  "description": "Backend for the ng2 example",
+  "main": "server.js",
+  "dependencies": {
+    "thorio": "git://github.com/MagnusThor/thorio.git#master",
+    "express": "^4.13.4",
+    "express-ws": "^1.0.0"
+  }
+}
